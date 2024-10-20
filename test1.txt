@@ -1,1 +1,2 @@
 starting myfirstproject with test1.txt file
+perfect start
